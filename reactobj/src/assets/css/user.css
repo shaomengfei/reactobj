@@ -1,0 +1,12 @@
+.User{}
+.User .u-h{background:#5398f4 ;margin-bottom: 0.2rem;}
+.User .u-h img{display: block;margin: 0 auto;width:1rem;height:1srem;}
+.User .u-h p{text-align:center;font:0.25rem/0.4rem "";color:#fff;}
+.User .u-c{}
+.User .u-c ul{}
+.User .u-c ul li{}
+.User .u-c ul li img{margin-left:0.3rem;vertical-align: middle;width:0.36rem;height:0.36rem;}
+.User .u-c ul li span{margin-left:0.3rem;text-align: center;font:0.2rem/0.6rem "";}
+.User .del{margin-top:3rem;margin-bottom:2rem; }
+.User .del input{width:4rem;height:0.4rem;background: red;border-radius:0.06rem; text-align: center;margin-left:1rem;font:0.2rem/0.4rem "";color:#fff;}
+

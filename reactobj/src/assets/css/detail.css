@@ -1,0 +1,17 @@
+.Detail{}
+.Detail p{font:0.2rem/0.35rem "";}
+.Detail p i{color:orange;}
+.Detail p s{margin-left:0.3rem;}
+.Detail .xx{font:0.2rem/0.5rem "";}
+.Detail .xx i{color:orange;margin-right:0.6rem;}
+.Detail .xx span{color:#ccc;}
+.Detail .xuanx ul{display: flex;justify-content:space-around;font:0.3rem/0.7rem "";}
+.Detail .xuanx ul li:nth-child(1){color:red;}
+.Detail .tup{margin-top:0.1rem;margin-bottom:1rem;}
+.Detail .tup img{width:5.96rem;height:4.5rem;}
+.Detail .foot{display: flex;justify-content: space-between;position: fixed;z-index: 33;bottom: 0;}
+.Detail .foot .left a img{height:0.48rem;width:0.48rem;}
+.Detail .foot .left a p{font-size:0.24rem;color: #ccc;}
+.Detail .foot .right{}
+
+

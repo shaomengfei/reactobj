@@ -1,0 +1,5 @@
+.Car{}
+.Car .sp{display: flex;justify-content: space-around;font:0.2rem/0.3rem "";}
+.Car .sp img{width:1rem;height:1rem;}
+.Car .sp p{margin-left:0.5rem;font:0.2rem/0.3rem "";}
+.Car .sp input{width:1rem;}

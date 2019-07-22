@@ -1,0 +1,10 @@
+.Footer{position: fixed;bottom: 0;width:100%;background: #fff;}
+.Footer .footer-s{display: flex;justify-content: space-around;align-items: center;border-top:0.01rem #ccc solid ;}
+.Footer .footer-s a{display:block;text-align: center;padding-top:0.1rem ;}
+.Footer .footer-s a img{height:0.48rem;width:0.48rem;}
+
+/* .Footer .footer-s a {background:url(../img/sy-on.png) no-repeat;height:0.48rem;width:0.48rem;} */
+
+.Footer .footer-s a p{font-size:0.24rem;color: #ccc;}
+
+
